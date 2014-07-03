@@ -13,5 +13,5 @@
 1. Remove unwanted line segments (e.g., border waste cuts)
 1. Drag select all objects (do not use CTRL-A)
 1. **Path | Object to Path**
-1. **Path | Combine **
+1. **Path | Combine**
 1. Copy file to Ponoko template, etc.
